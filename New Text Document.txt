@@ -4,3 +4,5 @@ This is a text for someone to take tests.
 Now I change it to a new version.
 //Submit Three
 Lok'tar Ogar!
+//Submit Seven
+Heroes never die!
